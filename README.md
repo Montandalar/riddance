@@ -5,11 +5,18 @@ annoying biome from your favourite game or a useless chat command? You can do
 all of these things with Riddance.
 
 Riddance can rid you of:
+
 * Items - which means nodes, craftitems, and tools
 * Biomes
 * Chat commands
 
 Riddance can also hit items from the creative inventory.
+
+## Important Links
+
+* [ContentDB](https://content.minetest.net/packages/Blockhead/riddance/)
+* [Forums](https://forum.minetest.net/viewtopic.php?f=9&t=28918)
+* [Source on GitHub](https://github.com/Montandalar/riddance)
 
 ## Who and what is riddance for?
 
