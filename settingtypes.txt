@@ -1,0 +1,12 @@
+# Items (and nodes and tools) to remove entirely. Separate each with a comma ","
+riddance.rid_items (Ridding items) string
+
+# Items (and nodes and tools) to hide from the creative inventory. Separate each
+# with a comma ","
+riddance.hide_items (Hide items) string
+
+# Biomes to remove entirely. Separate each with a comma ","
+riddance.rid_biomes (Ridding biomes) string
+
+# Chat commands to remove entirely. Separate each with a comma ","
+riddance.rid_chatcommands (Ridding chat commands) string
